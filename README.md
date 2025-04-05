@@ -218,5 +218,6 @@ Once you've completed your outline, write the full blog post and place it within
 
 Remember to tailor the content towards an audience of software developers.
 ```
-# License
-![license](https://github.com/AadityaUoHyd/my-github-repo-readme-generator/blob/master/LICENSE)
+
+# Find Live (Here generating RAEDME for Local directory won't work, only through GITHUB URL)
+![license](https://my-github-repo-readme-generator.onrender.com/)
