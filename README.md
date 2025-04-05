@@ -221,5 +221,6 @@ Remember to tailor the content towards an audience of software developers.
 # License
 [MIT License](LICENSE)
 
-# Find Live (Here generating RAEDME for Local directory won't work, only through GITHUB URL)
+# Find Live Running Project Here 
+Deployed on redner for free, using docker container. (At Live, generating RAEDME for Local directory won't work, only through GITHUB URL). <br>
 https://my-github-repo-readme-generator.onrender.com/
